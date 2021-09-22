@@ -14,13 +14,6 @@
     "require": {
         "php": ">=7.3",
         "ext-swoole": ">=4.7",
-        "hyperf/command": "~2.2.0",
-        "hyperf/config": "~2.2.0",
-        "hyperf/utils": "~2.2.0",
-        "hyperf/process": "~2.2.0",
-        "hyperf/db-connection": "~2.2.0",
-        "hyperf/database": "~2.2.0",
-        "hyperf/redis": "~2.2.0",
         "dleno/common-core": "~2.2.0"
     },
     "require-dev": {
